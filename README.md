@@ -24,11 +24,6 @@ I enjoy building scalable cloud infrastructure and automating application deploy
   <img src="https://skillicons.dev/icons?i=aws,terraform,jenkins,docker,kubernetes,ansible,linux,git,github,python,bash,prometheus,grafana" />
 </p>
 
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,jenkins,docker,kubernetes,ansible,linux,git,github,python,bash,prometheus,grafana" />
-</p>
-
 ### AWS Services
 
 `EC2` `VPC` `IAM` `EKS` `ECR` `S3` `ALB` `Auto Scaling` `CloudWatch` `Route 53`
@@ -90,14 +85,11 @@ I enjoy building scalable cloud infrastructure and automating application deploy
 
 ## 🎯 Currently Learning
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amitskannojia&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitskannojia&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+- Advanced AWS DevOps
+- Kubernetes Administration
+- Terraform Modules and Automation
+- Kubernetes Autoscaling
+- Cloud Monitoring and Observability
 
 ---
 
